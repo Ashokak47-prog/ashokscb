@@ -6,6 +6,9 @@ public class Dateshow {
 	
 	
 	public Date display() {
+		
+		System.out.println("my name is ashok");
+		
 		return new Date();
 	}
 

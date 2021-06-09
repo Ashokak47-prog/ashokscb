@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>ashokscbdev2local</name>
+=======
+	<name>ashokscbdevlocal</name>
+>>>>>>> branch 'master' of https://github.com/Ashokak47-prog/ashokscb.git
 	<comment></comment>
 	<projects>
 	</projects>
